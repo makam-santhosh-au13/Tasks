@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+    "users" : [
+        {
+            "_id": "60e8dd0436235e4b885a7c65",
+            "name": "Hema",
+            "salary": 230000,
+            "__v": 0
+        },
+        {
+            "_id": "60e8de6d36235e4b885a7c6a",
+            "name": "Amrutha",
+            "salary": 30000,
+            "__v": 0
+        },
+        {
+            "_id": "60e8de9236235e4b885a7c6e",
+            "name": "Santhosh",
+            "salary": 250000,
+            "__v": 0
+        },
+        {
+            "_id": "60e8ded636235e4b885a7c73",
+            "name": "Aditya",
+            "salary": 500000,
+            "__v": 0
+        },
+        {
+            "_id": "60e8df3e36235e4b885a7c78",
+            "name": "Shilpa",
+            "salary": 150000,
+            "__v": 0
+        }
+    ]
+}
